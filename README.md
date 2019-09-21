@@ -4,3 +4,4 @@
  * NOTE: My input is no more than 379 minutes long (1 minute == 1 sec).
  * Simulation will stop if all clients are processed(which is at minute 379), or if time is up.
  * If you want to see the output in your IDE, just comment lines 51 and 52.
+ * I am very inexperienced with GitHub. This is my first attempt at uploading my actual first project.
