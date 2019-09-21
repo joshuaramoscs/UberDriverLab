@@ -1,0 +1,428 @@
+Picking up first client: solemnmussel From: Independent Burger To: Puente Libre Driving 14 miles.
+Minute: 0
+Minute: 1
+Minute: 2
+Minute: 3
+Minute: 4
+Minute: 5
+Minute: 6
+Minute: 7
+Minute: 8
+Minute: 9
+Minute: 10
+Minute: 11
+Minute: 12
+Minute: 13
+Dropping solemnmussel you got $19.74 for this trip
+Minute: 14
+Picking up: backbonepeople From: Scenic Drive To: Village Inn Driving 27 miles.
+Minute: 15
+Minute: 16
+Minute: 17
+Minute: 18
+Minute: 19
+Minute: 20
+Minute: 21
+Minute: 22
+Minute: 23
+Minute: 24
+Minute: 25
+Minute: 26
+Minute: 27
+Minute: 28
+Minute: 29
+Minute: 30
+Minute: 31
+Minute: 32
+Minute: 33
+Minute: 34
+Minute: 35
+Minute: 36
+Minute: 37
+Minute: 38
+Minute: 39
+Minute: 40
+Minute: 41
+Dropping backbonepeople you got $32.64 for this trip
+Minute: 42
+Picking up: newcastletackling From: Denny's To: Cielo Vista Mall Driving 3 miles.
+Minute: 43
+Minute: 44
+Minute: 45
+Dropping newcastletackling you got $8.5 for this trip
+Minute: 46
+Picking up: neighirregular From: Forever Nails Spa To: The Fountains at Farah Driving 11 miles.
+Minute: 47
+Minute: 48
+Minute: 49
+Minute: 50
+Minute: 51
+Minute: 52
+Minute: 53
+Minute: 54
+Minute: 55
+Minute: 56
+Minute: 57
+Dropping neighirregular you got $40.68 for this trip
+Minute: 58
+Picking up: custardwhisk From: Best Buy To: Chicos Tacos Driving 26 miles.
+Minute: 59
+Minute: 60
+Minute: 61
+Minute: 62
+Minute: 63
+Minute: 64
+Minute: 65
+Minute: 66
+Minute: 67
+Minute: 68
+Minute: 69
+Minute: 70
+Minute: 71
+Minute: 72
+Minute: 73
+Minute: 74
+Minute: 75
+Minute: 76
+Minute: 77
+Minute: 78
+Minute: 79
+Minute: 80
+Minute: 81
+Minute: 82
+Minute: 83
+Minute: 84
+Dropping custardwhisk you got $25.54 for this trip
+Minute: 85
+Picking up: koysswopcorn From: Wings Stop To: Franklin Mountain Driving 5 miles.
+Minute: 86
+Minute: 87
+Minute: 88
+Minute: 89
+Minute: 90
+Dropping koysswopcorn you got $39.16 for this trip
+Minute: 91
+Picking up: aridoutput From: Best Buy To: EPCC Driving 25 miles.
+Minute: 92
+Minute: 93
+Minute: 94
+Minute: 95
+Minute: 96
+Minute: 97
+Minute: 98
+Minute: 99
+Minute: 100
+Minute: 101
+Minute: 102
+Minute: 103
+Minute: 104
+Minute: 105
+Minute: 106
+Minute: 107
+Minute: 108
+Minute: 109
+Minute: 110
+Minute: 111
+Minute: 112
+Minute: 113
+Minute: 114
+Minute: 115
+Minute: 116
+Dropping aridoutput you got $47.56 for this trip
+Minute: 117
+Picking up: plubgeologic From: Jack In The Box To: The Fountains at Farah Driving 29 miles.
+Minute: 118
+Minute: 119
+Minute: 120
+Minute: 121
+Minute: 122
+Minute: 123
+Minute: 124
+Minute: 125
+Minute: 126
+Minute: 127
+Minute: 128
+Minute: 129
+Minute: 130
+Minute: 131
+Minute: 132
+Minute: 133
+Minute: 134
+Minute: 135
+Minute: 136
+Minute: 137
+Minute: 138
+Minute: 139
+Minute: 140
+Minute: 141
+Minute: 142
+Minute: 143
+Minute: 144
+Minute: 145
+Minute: 146
+Dropping plubgeologic you got $48.57 for this trip
+Minute: 147
+Picking up: milkfumb From: Tacos Chinampa To: El Cometa Driving 26 miles.
+Minute: 148
+Minute: 149
+Minute: 150
+Minute: 151
+Minute: 152
+Minute: 153
+Minute: 154
+Minute: 155
+Minute: 156
+Minute: 157
+Minute: 158
+Minute: 159
+Minute: 160
+Minute: 161
+Minute: 162
+Minute: 163
+Minute: 164
+Minute: 165
+Minute: 166
+Minute: 167
+Minute: 168
+Minute: 169
+Minute: 170
+Minute: 171
+Minute: 172
+Minute: 173
+Dropping milkfumb you got $8.82 for this trip
+Minute: 174
+Picking up: nosesalinity From: Cielo Vista Mall To: Subway Driving 4 miles.
+Minute: 175
+Minute: 176
+Minute: 177
+Minute: 178
+Dropping nosesalinity you got $6.6 for this trip
+Minute: 179
+Picking up: desiredeeply From: Whataburger To: Tazas Coffee Shop Driving 5 miles.
+Minute: 180
+Minute: 181
+Minute: 182
+Minute: 183
+Minute: 184
+Dropping desiredeeply you got $5.28 for this trip
+Minute: 185
+Picking up: industryholystone From: Chick Fil'A To: UTEP Driving 25 miles.
+Minute: 186
+Minute: 187
+Minute: 188
+Minute: 189
+Minute: 190
+Minute: 191
+Minute: 192
+Minute: 193
+Minute: 194
+Minute: 195
+Minute: 196
+Minute: 197
+Minute: 198
+Minute: 199
+Minute: 200
+Minute: 201
+Minute: 202
+Minute: 203
+Minute: 204
+Minute: 205
+Minute: 206
+Minute: 207
+Minute: 208
+Minute: 209
+Minute: 210
+Dropping industryholystone you got $26.59 for this trip
+Minute: 211
+Picking up: luminouskiloparsec From: Nittuku Anime Shop To: Chase Bank Driving 29 miles.
+Minute: 212
+Minute: 213
+Minute: 214
+Minute: 215
+Minute: 216
+Minute: 217
+Minute: 218
+Minute: 219
+Minute: 220
+Minute: 221
+Minute: 222
+Minute: 223
+Minute: 224
+Minute: 225
+Minute: 226
+Minute: 227
+Minute: 228
+Minute: 229
+Minute: 230
+Minute: 231
+Minute: 232
+Minute: 233
+Minute: 234
+Minute: 235
+Minute: 236
+Minute: 237
+Minute: 238
+Minute: 239
+Minute: 240
+Dropping luminouskiloparsec you got $15.0 for this trip
+Minute: 241
+Picking up: waitpump From: Cielo Vista Mall To: EPCC Driving 11 miles.
+Minute: 242
+Minute: 243
+Minute: 244
+Minute: 245
+Minute: 246
+Minute: 247
+Minute: 248
+Minute: 249
+Minute: 250
+Minute: 251
+Minute: 252
+Dropping waitpump you got $4.37 for this trip
+Minute: 253
+Picking up: generouspristine From: Best Buy To: Rockin Jump Driving 8 miles.
+Minute: 254
+Minute: 255
+Minute: 256
+Minute: 257
+Minute: 258
+Minute: 259
+Minute: 260
+Minute: 261
+Dropping generouspristine you got $24.57 for this trip
+Minute: 262
+Picking up: paredistorted From: The Alamo To: Walgreens Driving 14 miles.
+Minute: 263
+Minute: 264
+Minute: 265
+Minute: 266
+Minute: 267
+Minute: 268
+Minute: 269
+Minute: 270
+Minute: 271
+Minute: 272
+Minute: 273
+Minute: 274
+Minute: 275
+Minute: 276
+Dropping paredistorted you got $22.54 for this trip
+Minute: 277
+Picking up: castarnumber From: McDonalds To: Sprouts Driving 24 miles.
+Minute: 278
+Minute: 279
+Minute: 280
+Minute: 281
+Minute: 282
+Minute: 283
+Minute: 284
+Minute: 285
+Minute: 286
+Minute: 287
+Minute: 288
+Minute: 289
+Minute: 290
+Minute: 291
+Minute: 292
+Minute: 293
+Minute: 294
+Minute: 295
+Minute: 296
+Minute: 297
+Minute: 298
+Minute: 299
+Minute: 300
+Minute: 301
+Dropping castarnumber you got $22.98 for this trip
+Minute: 302
+Picking up: logsparp From: Walgreens To: Chick Fil'A Driving 18 miles.
+Minute: 303
+Minute: 304
+Minute: 305
+Minute: 306
+Minute: 307
+Minute: 308
+Minute: 309
+Minute: 310
+Minute: 311
+Minute: 312
+Minute: 313
+Minute: 314
+Minute: 315
+Minute: 316
+Minute: 317
+Minute: 318
+Minute: 319
+Minute: 320
+Dropping logsparp you got $46.84 for this trip
+Minute: 321
+Picking up: spusthel] From: EPCC To: iHop Driving 29 miles.
+Minute: 322
+Minute: 323
+Minute: 324
+Minute: 325
+Minute: 326
+Minute: 327
+Minute: 328
+Minute: 329
+Minute: 330
+Minute: 331
+Minute: 332
+Minute: 333
+Minute: 334
+Minute: 335
+Minute: 336
+Minute: 337
+Minute: 338
+Minute: 339
+Minute: 340
+Minute: 341
+Minute: 342
+Minute: 343
+Minute: 344
+Minute: 345
+Minute: 346
+Minute: 347
+Minute: 348
+Minute: 349
+Minute: 350
+Dropping spusthel] you got $3.89 for this trip
+Minute: 351
+Picking up: spusthell From: Panda Express To: Chicos Tacos Driving 21 miles.
+Minute: 352
+Minute: 353
+Minute: 354
+Minute: 355
+Minute: 356
+Minute: 357
+Minute: 358
+Minute: 359
+Minute: 360
+Minute: 361
+Minute: 362
+Minute: 363
+Minute: 364
+Minute: 365
+Minute: 366
+Minute: 367
+Minute: 368
+Minute: 369
+Minute: 370
+Minute: 371
+Minute: 372
+Dropping spusthell you got $51.8 for this trip
+Minute: 373
+Picking up: longtermjinned From: Chick Fil'A To: Chick Fil'A Driving 3 miles.
+Minute: 374
+Minute: 375
+Minute: 376
+Dropping longtermjinned you got $25.08 for this trip
+Minute: 377
+Picking up: coachingme From: Puente Libre To: Denny's Driving 22 miles.
+Minute: 378
+No more clients at this time.
+************************
+You drove 22 people for a total of 379 miles.
+You earned a total of $515
+Thanks for driving for UBER!
+Minute: 379

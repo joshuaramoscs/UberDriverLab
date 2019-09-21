@@ -1,0 +1,22 @@
+koysswopcorn, Wings Stop, Franklin Mountain,              28, 5, 39.16 
+backbonepeople, Scenic Drive, Village Inn,                3, 27, 32.64 
+industryholystone, Chick Fil'A, UTEP,                     86, 25, 26.59
+luminouskiloparsec, Nittuku Anime Shop, Chase Bank,       113, 29, 15.00
+desiredeeply, Whataburger, Tazas Coffee Shop,             82, 5, 5.28
+nosesalinity, Cielo Vista Mall, Subway,                   65, 4, 6.60
+newcastletackling, Denny's, Cielo Vista Mall,             18, 3, 8.50
+generouspristine, Best Buy, Rockin Jump,                  130, 8, 24.57 
+logsparp, Walgreens, Chick Fil'A,                         142, 18, 46.84 
+plubgeologic, Jack In The Box, The Fountains at Farah,    46, 29, 48.57 
+spusthel], EPCC, iHop,                                    152, 29, 3.89 
+waitpump, Cielo Vista Mall, EPCC,                         129, 11, 4.37 
+aridoutput, Best Buy, EPCC,                               28, 25, 47.56 
+solemnmussel, Independent Burger, Puente Libre,           2, 14, 19.74
+castarnumber, McDonalds, Sprouts,                         131, 24, 22.98 
+milkfumb, Tacos Chinampa, El Cometa,                      62, 26, 8.82 
+longtermjinned, Chick Fil'A, Chick Fil'A,                 215, 3, 25.08 
+custardwhisk, Best Buy, Chicos Tacos,                     27, 26, 25.54 
+coachingme, Puente Libre, Denny's,                        222, 22, 50.86 
+paredistorted, The Alamo, Walgreens,                      131, 14, 22.54 
+neighirregular, Forever Nails Spa, The Fountains at Farah,18, 11, 40.68 
+spusthell, Panda Express, Chicos Tacos,                   211, 21, 51.80
